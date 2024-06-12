@@ -14,11 +14,10 @@ module.exports = {
     },
     extend: {},
     colors: {
-      customBlue: "#1E40AF",
-      customGreen: "#10B981",
-      customRed: "#EF4444",
-      customYellow: "#F59E0B",
-      // Add more custom colors as needed
+      // customBlue: "#1E40AF",
+      // customGreen: "#10B981",
+      // customRed: "#EF4444",
+      // customYellow: "#F59E0B"      
     },
   },
   plugins: [],
