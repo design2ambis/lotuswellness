@@ -1,0 +1,101 @@
+<div class="flex flex-wrap mx-24">
+    <section class="w-full lg:w-1/2 p-4">
+      <div class="rounded-lg p-6">
+        <ul class="space-y-4">
+          <li class="flex item-center mx-4">
+            <div class="mx-4 text-[#e4ac54] text-5xl">
+              <i aria-hidden="true" class="fas fa-database"></i>
+            </div>
+            <div>
+              <h6 class="text-lg font-semibold"></h6>
+              <p class="text-gray-700">
+                We do not label you an addict or alcoholic, nor do we believe
+                that you have a disease. We have found that damaging labels,
+                such as addict and alcoholic, rob you of your true identity.
+                It’s the treatment philosophy at Lotus that sets us apart from
+                all other rehab centers in the world.
+              </p>
+            </div>
+          </li>
+          <li class="flex item-center mx-4">
+            <div class="mx-4 text-[#e4ac54] text-5xl">
+              <i aria-hidden="true" class="fas fa-head-side-virus"></i>
+            </div>
+            <div>
+              <h6 class="text-lg font-semibold"></h6>
+              <p class="text-gray-700">
+                At Lotus, we focus on healing the underlying conditions that
+                are causing you to use drugs and alcohol. We do this by
+                utilizing a highly individualized treatment program with
+                therapists who are experienced in healing the underlying
+                causes of addiction.
+              </p>
+            </div>
+          </li>
+          <li class="flex item-center mx-4">
+            <div class="mx-4 text-[#e4ac54] text-5xl">
+              <i aria-hidden="true" class="fas fa-handshake"></i>
+            </div>
+            <div>
+              <h6 class="text-lg font-semibold"></h6>
+              <p class="text-gray-700">
+                Our holistic one-on-one approach is superior version of the 12
+                Step program and offers state-of-the-art services that will
+                keep you engaged and enthusiastic about healing. During
+                treatment, you will feel empowered, instead of powerless.
+              </p>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </section>
+    <section class="w-full lg:w-1/2 p-4">
+      <div class="rounded-lg p-6">
+        <ul class="space-y-4">
+          <li class="flex item-center mx-4">
+            <div class="mx-4 text-[#e4ac54] text-5xl w-10">
+              <i aria-hidden="true" class="fab fa-sistrix"></i>
+            </div>
+            <div>
+              <h6 class="text-lg font-semibold"></h6>
+              <p class="text-gray-700">
+                At Lotus, our treatment programmes for addiction, mental
+                health and well being are based on our core principles of
+                empathy, care and pragmatism. We ensure each of our guests are
+                given 60-80 hours of one-on-one therapy per month.
+              </p>
+            </div>
+          </li>
+          <li class="flex item-center mx-4">
+            <div class="mx-4 text-[#e4ac54] text-5xl">
+              <i aria-hidden="true" class="fas fa-house-user"></i>
+            </div>
+            <div>
+              <h6 class="text-lg font-semibold"></h6>
+              <p class="text-gray-700">
+                In an exclusive and caring environment, working with one
+                client at a time, we offer the most comprehensive and
+                intensive treatment programmes available. We make sure
+                everyone is given premium care with a personal touch.
+              </p>
+            </div>
+          </li>
+          <li class="flex item-center mx-4">
+            <div class="mx-4 text-[#e4ac54] text-5xl">
+              <i aria-hidden="true" class="fas fa-hands-helping"></i>
+            </div>
+            <div>
+              <h6 class="text-lg font-semibold"></h6>
+              <p class="text-gray-700">
+                For most clients, Lotus is one of the best experiences of
+                their life, and we feel confident you will feel the same. The
+                healing that takes place here is hard to put into words. Our
+                goal is to provide you with the therapy and tools needed to
+                ensure long-term recovery.
+              </p>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </section>
+  </div>
