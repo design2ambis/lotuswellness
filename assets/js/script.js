@@ -66,3 +66,23 @@ document.querySelectorAll(".accordion-header").forEach((button) => {
     }
   });
 });
+
+
+let Index = 0;
+const carouselInner1 = document.querySelector(".carousel-inners");
+const totalItems1 = document.querySelectorAll(".carousel-items").length;
+
+document.getElementById("prev1").addEventListener("click", () => {
+  Index = Index === 0 ? totalItems1 - 3 : Index - 1;
+  updateCarousel();
+});
+
+document.getElementById("next1").addEventListener("click", () => {
+  Index = Index === totalItems1 - 3 ? 0 : Index + 1;
+  updateCarousel();
+});
+
+function updateCarousel() {
+  const offset1 = -Index * (100 / 3);
+  carouselInner1.style.transform = `translateX(${offset1}%)`;
+}

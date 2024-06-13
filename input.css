@@ -405,3 +405,12 @@ p {
   width: 95px;
   height: 95px;
 }
+.blgclss {
+  height: 200px !important;
+  width: 100%;
+  object-fit: cover;
+}
+
+.swiper-slide-cuswidth{
+  width: 150px !important;
+}
